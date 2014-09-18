@@ -1,0 +1,11 @@
+{
+  "name": "clouds",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A light, airy theme.",
+  "repository": "https://github.com/Rob-ot/Clouds",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
