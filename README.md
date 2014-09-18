@@ -6,4 +6,4 @@ Based on [Clouds by Fred LeBlanc](https://github.com/fredleblanc/Clouds/)
 
 
 #### Screenshot
-![Clouds screenshot](https://github.com/Rob-ot/Clouds/blob/master/clouds.png)
+![Clouds screenshot](https://raw.githubusercontent.com/Rob-ot/Clouds/master/clouds.png)
